@@ -1,9 +1,0 @@
-pyproject.toml
-src/breppy/__init__.py
-src/breppy/__init__.pyi
-src/breppy/py.typed
-src/breppy.egg-info/PKG-INFO
-src/breppy.egg-info/SOURCES.txt
-src/breppy.egg-info/dependency_links.txt
-src/breppy.egg-info/requires.txt
-src/breppy.egg-info/top_level.txt

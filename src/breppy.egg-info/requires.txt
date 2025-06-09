@@ -1,8 +1,0 @@
-requests
-urllib3
-charset-normalizer
-msgspec
-rich
-beautifulsoup4
-platformdirs
-tomlkit
